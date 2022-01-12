@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\obj\Debug\LA8_Vowels1.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\obj\Debug\LA8_Vowels1.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\bin\Debug\LA8_Vowels1.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\bin\Debug\LA8_Vowels1.exe
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\bin\Debug\LA8_Vowels1.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\obj\Debug\LA8_Vowels1.exe
+D:\All files\Bow Valley\SODV9104\HW\LA8_Vowels1\obj\Debug\LA8_Vowels1.pdb
